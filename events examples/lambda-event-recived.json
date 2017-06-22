@@ -1,0 +1,13 @@
+[ 
+	{
+	"eventVersion": "1.0", 
+	"eventID": "shardId-000000000000:49574390353715103859910517501623457943135502111730565122", 
+	"kinesis": {
+		"approximateArrivalTimestamp": 1498121565.452, 
+		"partitionKey": "asdasdasd", 
+		"data": "eyJ1c2VyX2lkIjoyMzEyMzEsImNoYW5uZWwiOiJhcHAiLCJldmVudF9uYW1lIjoib3Blbl9hcHBsaWNhdGlvbiIsImV2ZW50X3RzIjoiMjAxNy0wNS0yM1QxODoyNTo0My41MTFaIiwic2Vzc2lvbl9pZCI6Ing2MmtkeGt5NGVya3FrMyIsImV2ZW50X2xvY2F0aW9uIjpbNDAuNzQxODk1LC03My45ODkzMDhdfQ==", 
+		"kinesisSchemaVersion": "1.0", 
+		"sequenceNumber": "49574390353715103859910517501623457943135502111730565122"
+		} 
+	}
+]

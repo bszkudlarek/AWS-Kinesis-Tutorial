@@ -1,0 +1,30 @@
+[
+{
+	"user_id": 231231,
+	"channel": "web",
+	"event_name": "focus_on_field_id",
+	"event_ts": "2012-04-27T20:15:03.511Z",
+	"session_id": "5as45df4as5df" 
+},
+{
+	"user_id": 231231,
+	"channel": "web",
+	"event_name": "focus_on_field_pass",
+	"event_ts": "2012-04-27T20:15:05.311Z",
+	"session_id": "5as45df4as5df" 
+},
+{
+	"user_id": 231231,
+	"channel": "web",
+	"event_name": "click_to_login",
+	"event_ts": "2012-04-27T20:15:09.031Z",
+	"session_id": "5as45df4as5df" 
+},
+{
+	"user_id": 231231,
+	"channel": "web",
+	"event_name": "click_to_callregistry",
+	"event_value": 14,
+	"event_ts": "2012-04-27T20:14:12.553Z",
+	"session_id": "5as45df4as5df" 
+}]

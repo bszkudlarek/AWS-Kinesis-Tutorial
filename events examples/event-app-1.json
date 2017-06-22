@@ -1,0 +1,8 @@
+{
+	"user_id": 231231,
+	"channel": "app",
+	"event_name": "open_application",
+	"event_ts": "2017-05-23T18:25:43.511Z",
+	"session_id": "x62kdxky4erkqk3",
+	"event_location": [40.741895,-73.989308]  
+}

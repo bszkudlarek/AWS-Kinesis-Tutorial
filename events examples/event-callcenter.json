@@ -1,0 +1,27 @@
+[
+{
+	"phone_number": 231231,
+	"channel": "callcenter",
+	"event_name": "open_call",
+	"event_ts": "2012-04-27T15:25:43.511Z",
+	"session_id": "93830920283" 
+}
+,
+{
+	"phone_number": 231231,
+	"channel": "callcenter",
+	"event_name": "option_selected",
+	"event_value": 1,
+	"event_ts": "2012-04-27T15:26:1.231Z",
+	"session_id": "93830920283" 
+}
+,
+{
+	"phone_number": 231231,
+	"channel": "callcenter",
+	"event_name": "option_selected",
+	"event_value": -1,
+	"event_ts": "2012-04-27T15:28:1.231Z",
+	"session_id": "93830920283" 
+}
+]

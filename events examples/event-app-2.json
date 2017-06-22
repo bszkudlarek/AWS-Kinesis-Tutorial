@@ -1,0 +1,6 @@
+{ "user_id": 231231,
+	"channel": "app",
+	"event_name": "tap_callregistry",
+	"event_value": 12,
+	"event_ts": "2017-05-23T18:25:53.511Z",
+	"session_id": "x62kdxky4erkak3" }
